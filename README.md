@@ -1,11 +1,9 @@
 - ## FAAALA galera, eu sou Yure Olímpio estudando o mundo da programção e desenvolvimento
-- Meu maior interesse é o desenvolvimento web
-- Estudando HTML, CSS e JavaScrit
 
 <div align="center">
   <a href="https://github.com/yureolimpio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yureolimpio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yureolimpio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yureolimpio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yureolimpio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
