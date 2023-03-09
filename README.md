@@ -1,4 +1,4 @@
-- ## FAAALA galera, eu sou Yure Olímpio estudando o mundo da programção e desenvolvimento
+- ## FAAALA GALERA, eu sou Yure Olímpio estudando o mundo da programção e desenvolvimento WEB
 
 <div align="center">
   <a href="https://github.com/yureolimpio">
